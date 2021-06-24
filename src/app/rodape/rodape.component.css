@@ -1,0 +1,35 @@
+ul.social-network{
+    list-style:none;
+    padding:0;
+}
+
+ul.social-network li{
+    display: inline;
+    margin:0;
+    padding: 5px;
+}
+
+.fa{
+    font-size: 35pt;
+    color:#3D3702;
+    padding: 10px;
+}
+
+.ft-jardim{
+    font-size: 12pt;
+    color:#3D3702;
+    padding: 10px;
+}
+
+.fa-facebook-square:hover {
+    color:steelblue;
+}
+
+.fa-instagram:hover{
+    color:magenta
+}
+
+.fa-linkedin-square:hover{
+    color:midnightblue
+}
+
