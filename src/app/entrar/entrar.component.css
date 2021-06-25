@@ -1,0 +1,20 @@
+#img-bg{
+    background-image: url(https://i.imgur.com/qaxBvs1.jpeg);
+
+    min-height: 695px;
+
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    
+}
+
+.entLogin{
+    color:mediumorchid;
+    font-size: 12px;
+}
+
+.entLog{
+    color:mediumorchid;
+    font-size: 36px;
+}
